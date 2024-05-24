@@ -32,7 +32,7 @@ const App = () => {
       {signer && (
         <div className="mt-16 flex flex-col gap-8 grow max-w-xl w-full">
           <div className="box-style text-center">
-            0x77D2DAC005A952eF61AbC3D5b460bF60c805E790
+            0x76cA981cD02CC4DDD042C49aAECa024b71509BBc
           </div>
           <Erc20Connect
             name={name}
